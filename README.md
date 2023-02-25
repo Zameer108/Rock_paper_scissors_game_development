@@ -8,5 +8,6 @@ This is a basic Python Code for the game with functionalities like:
 * Keeps score of each round and the total score at the end.
 * At the end, asks user if he wants to continue.
 
-
+# Video Eplaination:
+https://drive.google.com/file/d/10T7pY5QiU0KWoVFrJSvmLQNTVdCO4arh/view?usp=share_link
 
